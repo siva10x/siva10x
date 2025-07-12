@@ -182,7 +182,7 @@
   <a href="https://www.linkedin.com/in/siva-sankar-rajendran/" target="_blank" style="text-decoration:none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/siva10x.dev/" target="_blank" style="text-decoration:none !important">
+  <a href="https://www.instagram.com/siva10x_ai_expert/" target="_blank" style="text-decoration:none !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
